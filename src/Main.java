@@ -64,5 +64,5 @@ public class Main {
         else if (three > one && three > two) {
             System.out.println("Самое большое число " + three + " ");
         }
-}}
+    }}
 
